@@ -8,6 +8,6 @@ public class NumberReverter {
             rev = rev * 10 + rem;
             number = number / 10;
         }
-        System.out.println(rev)
+        System.out.println(rev);
     }
 }
